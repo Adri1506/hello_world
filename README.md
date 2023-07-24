@@ -1,2 +1,2 @@
 # hello_world
-my primer repositorio en gitHub
+repositorio de maquetacion web tienda online
